@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=5JVLO8yBMXA
+
 #include <QApplication>
 #include <QLabel>
 int main(int argc,char* argv[])
