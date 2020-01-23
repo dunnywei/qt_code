@@ -1,5 +1,5 @@
-//https://www.youtube.com/watch?v=F56fSKoNCtk&index=5&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA
-
+//https://www.youtube.com/watch?v=F56fSKoNCtk&index=5&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA->wrong
+->https://www.youtube.com/watch?v=EkjaiDsiM-Q&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA->choose this one
 Letcture 5->qt signal and slots
 
 ->How we can press a buttom and display a message on the previous lecture (0:58)?
