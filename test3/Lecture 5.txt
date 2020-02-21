@@ -7,5 +7,6 @@ Letcture 5->qt signal and slots
 ->Whenever you want to perform some action,based on some inputs (1:11) then you can use signal
 and slot for this action (1:15)
 
-->
+->Qt signal and slot
+https://www.youtube.com/watch?v=qEGRYYx0RBw
 
